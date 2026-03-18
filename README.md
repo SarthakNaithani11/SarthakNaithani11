@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Sarthak 👋
 
-<!--
-**SarthakNaithani11/SarthakNaithani11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end developer focused on crafting intuitive and engaging digital experiences.
 
-Here are some ideas to get you started:
+I enjoy building clean, responsive interfaces with thoughtful interactions and attention to detail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+- Build responsive web applications  
+- Create smooth UI interactions  
+- Focus on clean design and performance  
+
+### Tech
+React · Next.js · Node.js · GSAP · Tailwind  
+
+### Contact
+- [LinkedIn](#)
+- [Email](mailto:naithanisarthak11@gmail.com)
+- [Portfolio](#)
